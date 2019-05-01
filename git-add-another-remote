@@ -1,0 +1,2 @@
+git remote add upstream https://github.com/UWSEDS/sp19-version-control-2.git
+This adds another remote repo called 'upstream' for pushing/pulling
